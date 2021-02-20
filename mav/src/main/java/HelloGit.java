@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("开发分支添加1111");
         System.out.println("开发分支添加1");
         System.out.println("开发分支添加11");
+        System.out.println("主分支添加11");
     }
 }
